@@ -2,16 +2,17 @@ _[General](../README.md) > [Medium](./main.md) > [Stats](./Stats.md)_
 
 ## Earnings
 
-| Topic                | July | Aug   | Sept|
-| -------------------- | ---- | ----- |----|
-| For Loops            | 0.03 | 0.26  |0.20|
-| Variable Declaration | 0.07 | 0.04  |0|
-| Console              | -    | 27.65 |7.40|
-| JSON                 | -    | -     |1.35|
-| Script Loading       | -    | -     |15.12|
-| Equality in JS       | -    | -     |1.95|
-| 56 Funny Comments    | -    | -     | 76.64|
-|                      |0.10  |27.95  |102.66|
+| Topic                | July | Aug   | Sept   | Oct     |
+| -------------------- | ---- | ----- | ------ | ------- |
+| For Loops            | 0.03 | 0.26  | 0.20   | 0       |
+| Variable Declaration | 0.07 | 0.04  | 0      | 0       |
+| Console              | -    | 27.65 | 7.40   | 5.19    |
+| JSON                 | -    | -     | 1.35   | 0.78    |
+| Script Loading       | -    | -     | 15.12  | 2.28    |
+| Equality in JS       | -    | -     | 1.95   | 0.37    |
+| 56 Funny Comments    | -    | -     | 76.64  | 371.37  |
+| 30 Programming Jokes | -    | -     | -      | 1015.46 |
+|                      | 0.10 | 27.95 | 102.66 | 1395.45 |
 
 ---
 
