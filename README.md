@@ -1,5 +1,3 @@
-_[Medium](../README.md)_
-
 # **Medium**
 
 | #   | Topic                                           | Description                             |
