@@ -1,4 +1,4 @@
-_[General](../README.md) > [Medium](./main.md) > [Published](./Published.md)_
+_[Medium](./README.md) > [Published](./Published.md)_
 
 # List of Published Stories
 

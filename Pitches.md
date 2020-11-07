@@ -1,4 +1,4 @@
-_[General](../README.md) > [Medium](./main.md) > [Pitches](./Pitches.md)_
+_[Medium](./README.md) > [Pitches](./Pitches.md)_
 
 # Pitches to Different Publications
 

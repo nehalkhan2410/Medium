@@ -1,4 +1,4 @@
-_[General](../README.md) > [Medium](./main.md)_ > [Ideas](./Ideas.md)
+_[Medium](./README.md)_ > [Ideas](./Ideas.md)
 
 # **Ideas**
 
@@ -26,5 +26,3 @@ _[General](../README.md) > [Medium](./main.md)_ > [Ideas](./Ideas.md)
 - Google OAuth using Angular
 - Jio
 - Covid Vaccines
-
-

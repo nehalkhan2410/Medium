@@ -1,4 +1,4 @@
-_[General](../README.md) > [Medium](./main.md)_
+_[Medium](../README.md)_
 
 # **Medium**
 

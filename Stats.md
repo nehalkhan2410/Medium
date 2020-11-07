@@ -1,4 +1,4 @@
-_[General](../README.md) > [Medium](./main.md) > [Stats](./Stats.md)_
+_[Medium](./README.md) > [Stats](./Stats.md)_
 
 ## Earnings
 

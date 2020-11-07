@@ -1,4 +1,4 @@
-_[General](../README.md) > [Medium](./main.md) > [Format and Colors](./Formatting&Colors.md)_
+_[Medium](./README.md) > [Format and Colors](./Formatting&Colors.md)_
 
 ## **Image Format Info:**
 

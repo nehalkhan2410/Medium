@@ -1,4 +1,4 @@
-_[General](../README.md) > [Medium](./main.md) > [Topics](./Topics.md)_
+_[Medium](./README.md) > [Topics](./Topics.md)_
 
 ## Topics:
 

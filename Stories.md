@@ -1,4 +1,4 @@
-_[General](../README.md) > [Medium](./main.md) > [Stories](./Stories.md)_
+_[Medium](./README.md) > [Stories](./Stories.md)_
 
 # **Stories and Drafts**
 
